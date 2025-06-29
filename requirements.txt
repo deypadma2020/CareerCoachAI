@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-anthropic
+cohere
+scikit-learn
+python-dotenv
