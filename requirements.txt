@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-anthropic
+langchain_cohere
 cohere
 scikit-learn
 python-dotenv
