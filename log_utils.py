@@ -2,7 +2,7 @@ import os
 import json
 from datetime import datetime
 
-LOG_FILE = "context_classification_log.jsonl"
+LOG_FILE = "context_classification_log.json"
 
 def ensure_log_file():
     if not os.path.exists(LOG_FILE):
